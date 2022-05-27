@@ -1,0 +1,2 @@
+- EFS should be in same VPC where the EKS is running
+- EFS should use EKS cluster SG. Else it will throw error.
